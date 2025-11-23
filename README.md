@@ -7,7 +7,7 @@ Computer with MATLAB software
 ## Theory:
 
 ![WhatsApp Image 2025-11-20 at 11 08 56 AM](https://github.com/user-attachments/assets/c9efad0c-73d1-4000-9580-7eccaaad74c0)
-![WhatsApp Image 2025-11-20 at 11 08 56 AM](https://github.com/user-attachments/assets/ed18e4b0-3e54-49d5-8a4b-d823adfc31dc)
+![WhatsApp Image 2025-11-23 at 5 53 15 PM](https://github.com/user-attachments/assets/20d0408d-faeb-4edf-8448-1be7c7cef85c)
 <img width="944" height="1280" alt="image" src="https://github.com/user-attachments/assets/18264a16-efab-4de5-80a9-5e00ef2fdf22" />
 
 ## Procedure:
